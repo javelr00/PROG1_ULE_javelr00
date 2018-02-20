@@ -1,0 +1,10 @@
+1.casco-http://dle.rae.es/?id=7nhdI1F
+2.maleta-http://dle.rae.es/?id=O1Rs72V|O1S32bD|O1VbEn2
+3.impresora-http://dle.rae.es/?id=L6zeI9R
+4.coche-http://dle.rae.es/?id=9ZNs7ye|9ZO4sFe
+5.rojo-http://dle.rae.es/?id=WcdRRD4
+6.leche-http://dle.rae.es/?id=N2tsDWF
+7.habitación-http://dle.rae.es/?id=JvXKsI2
+8.montaña-http://dle.rae.es/?id=Pj62efq
+9.mesa-http://dle.rae.es/?id=P1le2lc
+10.ratón-http://dle.rae.es/?id=VEOs7fW
